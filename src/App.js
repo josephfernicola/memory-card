@@ -94,8 +94,7 @@ function App() {
         <div className="headers">
           <h1 className="header">Memory Card Game</h1>
           <h2 className="header">
-            Get points by clicking on an album but don't click on any more than
-            once!
+            Get points for choosing an album, but don't click on the same album more than once!
           </h2>
         </div>
         <div className="score">

@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/memory-card/static/media/sufjan.76e1d18d.jpeg"
   },
   {
-    "revision": "19fbf93c472ae9f001857edfb54ab3aa",
+    "revision": "8442829c943c23aa86dbf8f7f26b4138",
     "url": "/memory-card/index.html"
   }
 ];
