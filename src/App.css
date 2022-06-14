@@ -1,0 +1,52 @@
+.albumsContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  row-gap: 3rem;
+  margin-left: 5rem;
+  margin-right: 1rem;
+}
+
+img {
+  width: 15rem;
+  height: 15rem;
+  margin-top: 0.5rem;
+}
+
+body {
+  background-color: #232f34;
+  font-family: "Inter", sans-serif;
+}
+
+.album {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 16rem;
+  height: 20rem;
+  border-radius: 15px;
+  background-color: #344955;
+  color: white;
+  font-weight: 600;
+}
+
+.album:hover {
+  box-shadow: 0 0 40px #f9aa33;
+  cursor: pointer;
+}
+
+.header {
+  color: #f9aa33;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.headerAndScore {
+  display: flex;
+  margin-left: 4rem;
+}
+
+.score {
+  margin-left: 10rem;
+  margin-right: 1rem;
+}
