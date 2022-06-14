@@ -1,6 +1,6 @@
 {
   "name": "memory-card",
-  "version": "0.1.0",
+  "version": "",
   "private": true,
   "homepage": "http://josephfernicola.github.io/memory-card",
   "dependencies": {
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,6 +38,11 @@
       "last 1 safari version"
     ]
   },
+  "main": "index.js",
+  "repository": "git@github.com:josephfernicola/memory-card.git",
+  "author": "josephfernicola <josephrfernicola@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.1",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
