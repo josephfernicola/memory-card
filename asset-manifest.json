@@ -1,7 +1,7 @@
 {
   "main.css": "/memory-card/static/css/main.a0cb7312.chunk.css",
-  "main.js": "/memory-card/static/js/main.2b19cbc4.chunk.js",
-  "main.js.map": "/memory-card/static/js/main.2b19cbc4.chunk.js.map",
+  "main.js": "/memory-card/static/js/main.c7a88f2d.chunk.js",
+  "main.js.map": "/memory-card/static/js/main.c7a88f2d.chunk.js.map",
   "runtime~main.js": "/memory-card/static/js/runtime~main.16318a33.js",
   "runtime~main.js.map": "/memory-card/static/js/runtime~main.16318a33.js.map",
   "static/js/2.8e5bdfda.chunk.js": "/memory-card/static/js/2.8e5bdfda.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.71a42320.chunk.js": "/memory-card/static/js/3.71a42320.chunk.js",
   "static/js/3.71a42320.chunk.js.map": "/memory-card/static/js/3.71a42320.chunk.js.map",
   "index.html": "/memory-card/index.html",
-  "precache-manifest.0f1e51d702de61c1c5f90d8b35bfed92.js": "/memory-card/precache-manifest.0f1e51d702de61c1c5f90d8b35bfed92.js",
+  "precache-manifest.948b8055258d4d210ca0f6d1d06ea3eb.js": "/memory-card/precache-manifest.948b8055258d4d210ca0f6d1d06ea3eb.js",
   "service-worker.js": "/memory-card/service-worker.js",
   "static/css/main.a0cb7312.chunk.css.map": "/memory-card/static/css/main.a0cb7312.chunk.css.map",
   "static/media/bonIver.jpeg": "/memory-card/static/media/bonIver.292b809b.jpeg",
