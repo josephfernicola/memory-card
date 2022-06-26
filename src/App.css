@@ -68,4 +68,16 @@ body {
     justify-items: center;
     margin: 0;
   }
+.album {
+  height: 12rem;
+  width: 10rem;
+}
+.album > img {
+  width: 8rem;
+  height: 8rem;
+}
+
+.album > div {
+  font-size: 0.7rem;
+}
 }

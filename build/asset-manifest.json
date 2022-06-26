@@ -1,5 +1,5 @@
 {
-  "main.css": "/memory-card/static/css/main.fb3fcb0b.chunk.css",
+  "main.css": "/memory-card/static/css/main.cba178ac.chunk.css",
   "main.js": "/memory-card/static/js/main.aceb220d.chunk.js",
   "main.js.map": "/memory-card/static/js/main.aceb220d.chunk.js.map",
   "runtime~main.js": "/memory-card/static/js/runtime~main.16318a33.js",
@@ -9,9 +9,9 @@
   "static/js/3.71a42320.chunk.js": "/memory-card/static/js/3.71a42320.chunk.js",
   "static/js/3.71a42320.chunk.js.map": "/memory-card/static/js/3.71a42320.chunk.js.map",
   "index.html": "/memory-card/index.html",
-  "precache-manifest.1dbc9b24187779801f321ced74863715.js": "/memory-card/precache-manifest.1dbc9b24187779801f321ced74863715.js",
+  "precache-manifest.845bd2a766848bb90f4f43d4603ee1c3.js": "/memory-card/precache-manifest.845bd2a766848bb90f4f43d4603ee1c3.js",
   "service-worker.js": "/memory-card/service-worker.js",
-  "static/css/main.fb3fcb0b.chunk.css.map": "/memory-card/static/css/main.fb3fcb0b.chunk.css.map",
+  "static/css/main.cba178ac.chunk.css.map": "/memory-card/static/css/main.cba178ac.chunk.css.map",
   "static/media/bonIver.jpeg": "/memory-card/static/media/bonIver.292b809b.jpeg",
   "static/media/freddie.jpeg": "/memory-card/static/media/freddie.0e99cdaf.jpeg",
   "static/media/kasey.webp": "/memory-card/static/media/kasey.d0d9e467.webp",

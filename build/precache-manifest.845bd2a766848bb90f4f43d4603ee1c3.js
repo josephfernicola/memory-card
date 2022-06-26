@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "6acd20b7f8e8e5137f00",
-    "url": "/memory-card/static/css/main.fb3fcb0b.chunk.css"
+    "revision": "e7dfd0ff6c1a800dccda",
+    "url": "/memory-card/static/css/main.cba178ac.chunk.css"
   },
   {
-    "revision": "6acd20b7f8e8e5137f00",
+    "revision": "e7dfd0ff6c1a800dccda",
     "url": "/memory-card/static/js/main.aceb220d.chunk.js"
   },
   {
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/memory-card/static/media/sufjan.76e1d18d.jpeg"
   },
   {
-    "revision": "070012c807311b0afa13a7ed2a5dd89c",
+    "revision": "5d1dc18369c6eaf6167afee812737c41",
     "url": "/memory-card/index.html"
   }
 ];
