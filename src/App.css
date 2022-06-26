@@ -35,7 +35,9 @@ body {
   cursor: pointer;
 }
 
-.titleHeader, .description, .score {
+.titleHeader,
+.description,
+.score {
   color: #f9aa33;
   margin-left: 1rem;
   margin-right: 1rem;
@@ -59,7 +61,11 @@ body {
     font-size: 1rem;
     text-align: center;
   }
-.score {
-  margin-left: 3rem;
-}
+  .score {
+    margin-left: 3rem;
+  }
+  .albumsContainer {
+    justify-items: center;
+    margin: 0;
+  }
 }
