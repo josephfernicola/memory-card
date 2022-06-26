@@ -92,15 +92,18 @@ function App() {
     <div className="App">
       <div className="headerAndScore">
         <div className="headers">
-          <h1 className="header">Memory Card Game</h1>
-          <h2 className="header">
-            Get points for choosing an album, but don't click on the same album more than once!
-          </h2>
+          <h1 className="titleHeader">Memory Card Game</h1>
         </div>
+
         <div className="score">
           <Score score={score} best={best} />
         </div>
       </div>
+      <h2 className="description">
+        Get points for choosing an album, but don't click on the same album more
+        than once!
+      </h2>
+
       <div className="albumsContainer">
         <div className="album" onClick={handleScore}>
           <Albums img={albumArray[0].img} name={albumArray[0].name} />

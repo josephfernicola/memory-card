@@ -35,18 +35,31 @@ body {
   cursor: pointer;
 }
 
-.header {
+.titleHeader, .description, .score {
   color: #f9aa33;
   margin-left: 1rem;
   margin-right: 1rem;
 }
 
 .headerAndScore {
-  display: flex;
-  margin-left: 4rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 .score {
   margin-left: 10rem;
   margin-right: 1rem;
+}
+
+@media (max-width: 900px) {
+  .titleHeader {
+    font-size: 1.5rem;
+  }
+  .description {
+    font-size: 1rem;
+    text-align: center;
+  }
+.score {
+  margin-left: 3rem;
+}
 }
